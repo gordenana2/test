@@ -1,0 +1,146 @@
+{
+  "available": true,
+  "expires": 0,
+  "expiration_period": 86400000,
+  "sections_checksum": "040889582081b3c7321bd5f5de84df68",
+  "sections": [
+    {
+      "title": "Regístrate ahora",
+      "position": "0",
+      "tiles": [
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/images/2/original/ultimos-estrenos-en-rakuten-tv-1641305821-height260.jpeg",
+          "action_data": "{\"campaignid\":\"signup\",\"from\":\"Eden\"}",
+          "is_playable": false,
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "Gratis",
+      "position": "1",
+      "tiles": [
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/12184/original/terminal-1611323262-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id101999$movies/terminal\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"terminal\"}",
+          "is_playable": false,
+          "position": 0
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/13063/original/desierto-de-fuego-1611324087-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id138374$movies/desierto-de-fuego\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"desierto-de-fuego\"}",
+          "is_playable": false,
+          "position": 1
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/65183/original/truman-1611476499-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id32771$movies/truman-4a1bc4ed-9d33-492b-bed2-4a11ce3fe25a\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"truman-4a1bc4ed-9d33-492b-bed2-4a11ce3fe25a\"}",
+          "is_playable": false,
+          "position": 2
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11352/original/el-ultimo-disparo-1611322634-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id52744$movies/el-ultimo-disparo\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"el-ultimo-disparo\"}",
+          "is_playable": false,
+          "position": 3
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11990/original/el-amor-menos-pensado-1611323123-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id78913$movies/el-amor-menos-pensado\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"el-amor-menos-pensado\"}",
+          "is_playable": false,
+          "position": 4
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/63643/original/los-idus-de-marzo-1620380290-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id2356$movies/los-idus-de-marzo\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"los-idus-de-marzo\"}",
+          "is_playable": false,
+          "position": 5
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/10788/original/el-secreto-de-una-obsesion-1611322302-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id37953$movies/el-secreto-de-una-obsesion\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"el-secreto-de-una-obsesion\"}",
+          "is_playable": false,
+          "position": 6
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11800/original/solo-dios-perdona-1611322971-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id60319$movies/solo-dios-perdona\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"solo-dios-perdona\"}",
+          "is_playable": false,
+          "position": 7
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/9786/original/tokarev-1611321665-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id18663$movies/tokarev\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"tokarev\"}",
+          "is_playable": false,
+          "position": 8
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/10636/original/maggie-1611322227-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id32652$movies/maggie\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"maggie\"}",
+          "is_playable": false,
+          "position": 9
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11130/original/el-ultimo-rey-1611322489-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id48915$movies/el-ultimo-rey\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"el-ultimo-rey\"}",
+          "is_playable": false,
+          "position": 10
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11284/original/redencion-southpaw-1611322590-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id51463$movies/redencion-southpaw\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"redencion-southpaw\"}",
+          "is_playable": false,
+          "position": 11
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/12909/original/sed-de-venganza-2019-1611323941-height260.png",
+          "action_data": "{\"titleid\":\"movie_id134713$movies/sed-de-venganza-2019\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"sed-de-venganza-2019\"}",
+          "is_playable": false,
+          "position": 12
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11943/original/la-leyenda-de-redbad-1611323092-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id75315$movies/la-leyenda-de-redbad\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"la-leyenda-de-redbad\"}",
+          "is_playable": false,
+          "position": 13
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/10634/original/un-paseo-por-el-bosque-1611322226-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id32650$movies/un-paseo-por-el-bosque\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"un-paseo-por-el-bosque\"}",
+          "is_playable": false,
+          "position": 14
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/13054/original/ride-1611324074-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id138358$movies/ride-62881c22-99aa-4ff4-b66e-50b1366081b5\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"ride-62881c22-99aa-4ff4-b66e-50b1366081b5\"}",
+          "is_playable": false,
+          "position": 15
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/74617/original/brigada-antidisturbios-1619780329-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id142682$movies/brigada-antidisturbios\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"brigada-antidisturbios\"}",
+          "is_playable": false,
+          "position": 16
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/10829/original/el-duelo-1611322324-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id39064$movies/el-duelo-2f2d9cfa-a1ff-42e0-924c-8f6926bf93ee\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"el-duelo-2f2d9cfa-a1ff-42e0-924c-8f6926bf93ee\"}",
+          "is_playable": false,
+          "position": 17
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11880/original/gotti-1611323038-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id61387$movies/gotti\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"gotti\"}",
+          "is_playable": false,
+          "position": 18
+        },
+        {
+          "image_url": "https://dev-images.wuaki.tv/system/artworks/11349/original/un-hombre-de-familia-1611322632-height260.jpeg",
+          "action_data": "{\"titleid\":\"movie_id52741$movies/un-hombre-de-familia\",\"from\":\"Eden\",\"content_type\":\"movies\",\"content_id\":\"un-hombre-de-familia\"}",
+          "is_playable": false,
+          "position": 19
+        }
+      ]
+    }
+  ]
+}
